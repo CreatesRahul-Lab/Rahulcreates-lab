@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Himatsingh-lab
+- 👋 Hi, I’m @CreatesRahul-Lab
 
 🚀 Aspiring Software Developer | Computer Science Student | Open-Source Enthusiast
 
